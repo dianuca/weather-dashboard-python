@@ -1,0 +1,18 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs and local configuration
+*.log
+.env
+.env.local
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
