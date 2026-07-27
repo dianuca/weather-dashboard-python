@@ -72,10 +72,6 @@ The API key is read from the `OPENWEATHER_API_KEY` environment variable and must
 - Add unit tests for forecast aggregation and timezone conversion
 - Add saved locations and unit preferences
 
-## Author
-
-**Diana Ciodolan**
-
 ## Screenshots
 
 ### Current Weather Dashboard
@@ -101,3 +97,7 @@ In addition to current conditions, the application provides both short-term hour
 Invalid user input is handled gracefully with a clear error dialog when a city cannot be found.
 
 ![Invalid city error](screenshots/invalid-city-error.png)
+
+## Author
+
+**Diana Ciodolan**
