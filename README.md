@@ -75,3 +75,29 @@ The API key is read from the `OPENWEATHER_API_KEY` environment variable and must
 ## Author
 
 **Diana Ciodolan**
+
+## Screenshots
+
+### Current Weather Dashboard
+
+The main dashboard shows the current weather for a searched city, including temperature, weather condition, wind speed, precipitation and humidity.
+
+![Barcelona clear weather](screenshots/barcelona-clear-weather.png)
+
+### Alternative Weather Conditions
+
+The interface updates dynamically based on the API response and displays different icons, values and forecast information for other cities and weather conditions.
+
+![Sibiu rain weather](screenshots/sibiu-rain-weather.png)
+
+### Hourly and Daily Forecast
+
+In addition to current conditions, the application provides both short-term hourly forecasts and a multi-day weather outlook.
+
+![Forecast details](screenshots/forecast-details.png)
+
+### Error Handling
+
+Invalid user input is handled gracefully with a clear error dialog when a city cannot be found.
+
+![Invalid city error](screenshots/invalid-city-error.png)
