@@ -48,10 +48,6 @@ Forecast information is presented both at three-hour intervals and as a multi-da
 
 When a city cannot be found, the application displays a clear error dialog instead of failing unexpectedly.
 
-<p align="center">
-  <img src="screenshots/invalid-city-error.png" width="70%" alt="Invalid city error dialog">
-</p>
-
 ## Technology Stack
 
 - **Python 3.11+**
